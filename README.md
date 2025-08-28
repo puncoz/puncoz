@@ -29,21 +29,9 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,java,spring,gradle,php,laravel,js,ts,nodejs,express,nestjs,react,nextjs,vue,tailwind,go,mysql,postgres,redis,kafka,rabbitmq,elasticsearch,grafana,prometheus&perline=20" />
 </a>
 
-<div align="center">
-  <div width="50%">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=puncoz&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=puncoz&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=puncoz&show_icons=true" />
-    </picture>
-  </div>
+<hr/>
 
+<div align="center">
   <div width="50%">
     <picture>
       <source
@@ -55,6 +43,20 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puncoz&layout=compact&langs_count=8" />
+    </picture>
+  </div>
+  
+  <div width="50%">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=puncoz&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=puncoz&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=puncoz&show_icons=true" />
     </picture>
   </div>
 </div>
